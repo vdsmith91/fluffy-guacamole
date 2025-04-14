@@ -1,0 +1,36 @@
+Android App Project Outline – Version Change Log
+________________________________________
+Version 1.1 – April 2025 Update
+Status: Updated
+Release Type: Feature Enhancement
+Contributors: Project Lead, UX Team, Backend Team
+________________________________________
+What’s New
+New Feature: Local Events
+A dedicated section has been added under Functionality and Adventure and Exploration to offer hyper-local event recommendations tailored to the user's location and interests. This change empowers older users to discover neighborhood events such as community fairs, workshops, meetups, and local wellness programs—promoting community involvement and social wellness.
+Highlights:
+•	Integration with local event feeds and calendars
+•	Filters by interest (e.g., fitness, culture, hobbies)
+•	Real-time updates and event notifications
+New Feature: Emergency Contacts
+In response to feedback prioritizing safety and wellness, a new Emergency Contacts component has been integrated across the Health and Wellness and Accessibility sections. This ensures rapid access to important contacts in emergencies and supports peace of mind for both users and their families.
+Highlights:
+•	One-touch call feature to preset emergency contacts
+•	Customizable ICE (In Case of Emergency) profile
+•	Optional integration with health monitoring alerts
+________________________________________
+Changes Implemented
+Section	Change Summary
+Project Description	Enhanced to reflect the new focus on community connectivity and personal safety.
+Functionality	Two new sub-features added under Core Features: Local Events and Emergency Contacts.
+Adventure and Exploration	Now includes a reference to community-based event discovery, not just travel and hobbies.
+Health and Wellness	Emergency contact feature mentioned as part of health safeguarding tools.
+Accessibility	Updated to include simplified emergency features designed for rapid interaction.
+________________________________________
+Rationale Behind Updates
+Older adults consistently express a desire for greater community engagement and ease of access to help in emergencies. By integrating localized events and emergency contact support, this app further enhances its mission of simplifying life, promoting well-being, and encouraging exploration for older generations.
+________________________________________
+Coming in Future Versions:
+•	Medication Reminders
+•	Digital Literacy Help Center
+•	Voice Assistant Integration (Multi-language)
